@@ -1,2 +1,6 @@
 # TP_website
-svina
+
+
+This website was developed by TP-techpro Tapiwa Muzorori
+
+It is for practise purposes
